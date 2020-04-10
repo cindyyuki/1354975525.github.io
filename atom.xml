@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-10T08:41:27.557Z</updated>
+  <updated>2020-04-10T08:46:41.709Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>前端是什么？</title>
+    <link href="http://yoursite.com/2020/04/10/%E5%89%8D%E7%AB%AF%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/"/>
+    <id>http://yoursite.com/2020/04/10/%E5%89%8D%E7%AB%AF%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/</id>
+    <published>2020-04-10T08:46:08.000Z</published>
+    <updated>2020-04-10T08:46:41.709Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前端是什么？"><a href="#前端是什么？" class="headerlink" title="前端是什么？"></a>前端是什么？</h2><p>《代码能有多难》——原地址：<a href="https://dmnydn.com/" target="_blank" rel="noopener">https://dmnydn.com/</a></p><p>一般来说，我们在做一件事情的开始，首先要知道它是什么。写下这个标题之后，我就立刻去 Google 了一下，结果好像没有什么简单明确的说前端是什么的答案。</p><p>这就让我感到十分的尴尬，毕竟我是没有能力去下这个定义的。仔细想想也是，好像我们做这一行的，也是了解它是什么，但却又有点难以描述。</p><p>如果现在我来列举名词，前端包含哪些技术，大概我是能列出个 123 来的，可是呢，本文是面向不懂前端的小白的，所以我把名词列出来，小白们还是看不懂，这就没有什么意义了。毕竟又不是为了应付考试，对于实际应用，理解可能比背下明确的答案来，更有用。</p><p>首先呢，前端，是用来面向用户的，而后端是在后面管理和处理数据的，然后这个概念并不是绝对的。</p><p>我知道，上一句你很可能没有听懂。那我就来举几个例子，跟你描述一下我对前端的感受吧。</p><p>一个网站，我们先把它看作街头的小饭馆。222222饿了，去饭馆吃饭，我们会找一个环境不错的，这样赏心悦目一些，当然，我们可能更在意饭菜的质量，环境差一点也能够忍受。服务生来了，递给你菜单，你告诉他自己想吃的东西，他可能还会告诉你，什么东西已经没有了，不能点，然后你们进行交流，最终确定下你要点的菜色。服务生去通知后厨，后厨做菜做饭，然后服务生把饭菜端上来，供你使食用。最后吃饱离开……（我为什么要在上午 10 点多描述这些东西？流口水……</p><p>好了言归正传，在刚才这些流程里，你所能够看到的部分，基本都属于前端。比如店铺的环境（网站的界面），服务生的态度（你和网站之间的互动，就是交互），给你的菜单（网站展示给你的内容）等等。</p><p>前端不只是进行展示，他也可以和你进行交互，你来到饭馆门口，服务生会热情的招呼您：“客官，欢迎来到炸酱面馆儿，进来看看，这里有炸酱，嘿，还有面！”</p><p>它还可以处理简单的数据，当你点二尺长的龙虾的时候，他告诉你，对不起，这个我们没有，而这个过程中，他并没有跑到后厨去进行确认。</p><p>收集整理并向后台传递数据，把你想点的菜列成清晰的单子，然后交给后厨。</p><p>还能把后台传递过来的数据向用户进行呈现，饭菜做好了，他会端上来帮你放在桌面上。</p><p>你可能要说了，原来前端就是一个服务生的工作。差不太多，后端呢，就对应饭馆的后厨。后厨，正常情况下，你是看不见的，和厨师也不会有直接的交流。但是他们提供的东西，才是你来这里的真正目的。</p><p>如果在以前解释到这里基本就差不多了，但是现在我不得不说，这个问题并不绝对。有些馆子比较小，比如我们早晨着急上班，买个煎饼果子，叼着就走了。你看你的需求并不太高，并不要求三菜一汤，荤素搭配。所以也没必要弄一个完整的饭馆配置，一个人又负责接待，又负责做饭，站在那里没动地方就把问题解决了。现在的前端也是，因为用户电脑的处理能力越来越强，前端处理数据的能力也就越来越强，需求不太高的数据处理，可能就在前端直接完成，所以一些网站没有后端，也可以提供很好的体验了。</p><p>但是也不要说，前端得到了很大的发展，后端就变得不重要了。毕竟我们刚刚举的例子，只是一个简单的小饭馆儿。那么如果我们把它变成一个公司呢？你面对的接待和销售人员，只是公司中的一小部分，而后面还隐藏着庞大数量的，处理这些事务的人。我们不能因为前台长得漂亮，就认为因为有了这个前台，所以这个公司才很厉害。</p><p>这些只是比喻，为了让大家初步的对前端有一个印象。但是一切比喻都是蹩脚的，所以能开心一下，增进一点理解就好了，千万不要在这个上面太过较真。<br>————————————————<br>版权声明：本文为CSDN博主「君子好遒」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。<br>原文链接：<a href="https://blog.csdn.net/qq_38968170/java/article/details/85916810" target="_blank" rel="noopener">https://blog.csdn.net/qq_38968170/java/article/details/85916810</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;前端是什么？&quot;&gt;&lt;a href=&quot;#前端是什么？&quot; class=&quot;headerlink&quot; title=&quot;前端是什么？&quot;&gt;&lt;/a&gt;前端是什么？&lt;/h2&gt;&lt;p&gt;《代码能有多难》——原地址：&lt;a href=&quot;https://dmnydn.com/&quot; target=&quot;_b
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>前端的开始</title>
     <link href="http://yoursite.com/2020/04/10/%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%80%E8%AE%B2/"/>
     <id>http://yoursite.com/2020/04/10/%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%80%E8%AE%B2/</id>
     <published>2020-04-10T07:16:33.000Z</published>
-    <updated>2020-04-10T08:41:27.557Z</updated>
+    <updated>2020-04-10T08:45:53.130Z</updated>
     
     <content type="html"><![CDATA[<h2 id="新电脑搭建前端开发环境"><a href="#新电脑搭建前端开发环境" class="headerlink" title="新电脑搭建前端开发环境"></a>新电脑搭建前端开发环境</h2><hr><h3 id="安装包"><a href="#安装包" class="headerlink" title="安装包"></a>安装包</h3><p>需要安装 nodejs：<a href="http://nodejs.cn/" target="_blank" rel="noopener">http://nodejs.cn/</a> 、git：<a href="https://git-scm.com/" target="_blank" rel="noopener">https://git-scm.com/</a> 、vscode：<a href="https://code.visualstudio.com/" target="_blank" rel="noopener">https://code.visualstudio.com/</a></p><h3 id="nodejs"><a href="#nodejs" class="headerlink" title="nodejs"></a>nodejs</h3><p>&ensp;&ensp;&ensp;&ensp;Node.js默认安装目录为 C:\Program Files\nodejs, 你也可以修改目录，安装中一直 next（下一步）即可，安装完打开 cmd 命令行输入 node -v 查看 node 版本，有版本说明安装成功。注意：node 安装完默认配置好环境变量。</p><h3 id="git"><a href="#git" class="headerlink" title="git"></a>git</h3><p>&ensp;&ensp;&ensp;&ensp;git可以不用安装在c盘，安装一直 next 即可，安装完前往桌面鼠标右键，看到一个 <font color="red">Git Gui Here</font> 和一个 <font color="red">Git Bash Here</font>，这里我们需要用到的是<font color="red">Git Bash Here</font>，点击打开会看到一个git的命令窗口，输入 node -v 也可以查看node的版本，以后开发更多是用 git 而不是用 window cmd 命令行，右键窗口点击最下面那个 options 可以修改 git 窗口的默认样式，比如窗口大小、文字大小颜色等等。</p><h3 id="vscode"><a href="#vscode" class="headerlink" title="vscode"></a>vscode</h3><p>&ensp;&ensp;&ensp;&ensp;vscode安装完成后，打开即可。这里推荐一个vscode前端开发常用插件的一篇文章：<a href="https://www.jianshu.com/p/f0585d50bede" target="_blank" rel="noopener">https://www.jianshu.com/p/f0585d50bede</a></p><p>到这里，前端基本的开发环境就搭建好了，当然还有 npm、cnpm、yarn、vue、react、webpack、typescript、sass、less等等。</p>]]></content>
     
