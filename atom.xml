@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-10T08:40:13.294Z</updated>
+  <updated>2020-04-10T08:41:27.557Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/04/10/%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%80%E8%AE%B2/"/>
     <id>http://yoursite.com/2020/04/10/%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%80%E8%AE%B2/</id>
     <published>2020-04-10T07:16:33.000Z</published>
-    <updated>2020-04-10T08:40:13.294Z</updated>
+    <updated>2020-04-10T08:41:27.557Z</updated>
     
     <content type="html"><![CDATA[<h2 id="新电脑搭建前端开发环境"><a href="#新电脑搭建前端开发环境" class="headerlink" title="新电脑搭建前端开发环境"></a>新电脑搭建前端开发环境</h2><hr><h3 id="安装包"><a href="#安装包" class="headerlink" title="安装包"></a>安装包</h3><p>需要安装 nodejs：<a href="http://nodejs.cn/" target="_blank" rel="noopener">http://nodejs.cn/</a> 、git：<a href="https://git-scm.com/" target="_blank" rel="noopener">https://git-scm.com/</a> 、vscode：<a href="https://code.visualstudio.com/" target="_blank" rel="noopener">https://code.visualstudio.com/</a></p><h3 id="nodejs"><a href="#nodejs" class="headerlink" title="nodejs"></a>nodejs</h3><p>&ensp;&ensp;&ensp;&ensp;Node.js默认安装目录为 C:\Program Files\nodejs, 你也可以修改目录，安装中一直 next（下一步）即可，安装完打开 cmd 命令行输入 node -v 查看 node 版本，有版本说明安装成功。注意：node 安装完默认配置好环境变量。</p><h3 id="git"><a href="#git" class="headerlink" title="git"></a>git</h3><p>&ensp;&ensp;&ensp;&ensp;git可以不用安装在c盘，安装一直 next 即可，安装完前往桌面鼠标右键，看到一个 <font color="red">Git Gui Here</font> 和一个 <font color="red">Git Bash Here</font>，这里我们需要用到的是<font color="red">Git Bash Here</font>，点击打开会看到一个git的命令窗口，输入 node -v 也可以查看node的版本，以后开发更多是用 git 而不是用 window cmd 命令行，右键窗口点击最下面那个 options 可以修改 git 窗口的默认样式，比如窗口大小、文字大小颜色等等。</p><h3 id="vscode"><a href="#vscode" class="headerlink" title="vscode"></a>vscode</h3><p>&ensp;&ensp;&ensp;&ensp;vscode安装完成后，打开即可。这里推荐一个vscode前端开发常用插件的一篇文章：<a href="https://www.jianshu.com/p/f0585d50bede" target="_blank" rel="noopener">https://www.jianshu.com/p/f0585d50bede</a></p><p>到这里，前端基本的开发环境就搭建好了，当然还有 npm、cnpm、yarn、vue、react、webpack、typescript、sass、less等等。</p>]]></content>
     
