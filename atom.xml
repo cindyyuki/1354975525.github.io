@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>CindyYuki个人博客</title>
+  <title>CindyYuki 个人博客</title>
   
   <subtitle>工作半年的萌新</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-09T20:42:32.305Z</updated>
+  <updated>2020-04-10T07:23:19.579Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,26 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我是第一篇博客</title>
-    <link href="http://yoursite.com/2020/04/10/%E6%88%91%E6%98%AF%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2020/04/10/%E6%88%91%E6%98%AF%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
-    <published>2020-04-09T20:39:18.000Z</published>
-    <updated>2020-04-09T20:42:32.305Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><p>内容</p><hr><h3 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h3><p>内容</p>]]></content>
+    <title>博客第一讲</title>
+    <link href="http://yoursite.com/2020/04/10/%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%80%E8%AE%B2/"/>
+    <id>http://yoursite.com/2020/04/10/%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%80%E8%AE%B2/</id>
+    <published>2020-04-10T07:16:33.000Z</published>
+    <updated>2020-04-10T07:23:19.579Z</updated>
     
     <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h2&gt;&lt;p&gt;内容&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&quot;第二章&quot;&gt;&lt;a href=&quot;#第二章&quot; class=&quot;headerlink&quot; title=&quot;
-      
     
     </summary>
     
     
+    
+      <category term="chat" scheme="http://yoursite.com/tags/chat/"/>
     
   </entry>
   
